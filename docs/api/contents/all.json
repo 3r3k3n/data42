@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-11-10T17:28:12.766655Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-10T17:03:59.728343Z",
+      "mimetype": "text/x-python",
+      "name": "demo.py",
+      "path": "demo.py",
+      "size": 28,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-11-10T17:28:12.766122Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-10T15:36:51.682298Z",
+      "mimetype": null,
+      "name": "demo.ipynb",
+      "path": "demo.ipynb",
+      "size": 1223,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-11-10T17:28:12.766655Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-11-10T17:28:12.766655Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
