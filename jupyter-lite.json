@@ -1,0 +1,10 @@
+{
+  "jupyterlite": {
+    "federated_extensions": [
+      "@jupyterlite/pyodide-kernel-extension"
+    ]
+  },
+  "litePlugins": {
+    "@jupyterlite/pyodide-kernel-extension": true
+  }
+}
