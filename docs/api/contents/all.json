@@ -2,6 +2,20 @@
   "content": [
     {
       "content": null,
+      "created": "2025-11-17T17:05:24.233753Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-17T16:59:44.305182Z",
+      "mimetype": null,
+      "name": "lesson_1_python.ipynb",
+      "path": "lesson_1_python.ipynb",
+      "size": 615,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2025-11-13T18:03:28.229411Z",
       "format": null,
       "hash": null,
@@ -30,6 +44,20 @@
     },
     {
       "content": null,
+      "created": "2025-11-17T17:05:24.233247Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-11-17T16:59:47.191060Z",
+      "mimetype": null,
+      "name": "intro.ipynb",
+      "path": "intro.ipynb",
+      "size": 550,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2025-11-13T18:03:28.229978Z",
       "format": null,
       "hash": null,
@@ -43,11 +71,11 @@
       "writable": true
     }
   ],
-  "created": "2025-11-13T18:03:28.230442Z",
+  "created": "2025-11-17T17:05:24.233528Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2025-11-13T18:03:28.230442Z",
+  "last_modified": "2025-11-17T17:05:24.233528Z",
   "mimetype": null,
   "name": "",
   "path": "",
