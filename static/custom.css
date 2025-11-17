@@ -1,0 +1,19 @@
+/* Скрыть левое меню (file tree) */
+.jp-FileBrowser {
+    display: none !important;
+}
+
+/* Скрыть панель запуска (Launcher) */
+.jp-LabShell .jp-Launcher {
+    display: none !important;
+}
+
+/* Скрыть breadcrumbs сверху */
+.lite-breadcrumbs {
+    display: none !important;
+}
+
+/* Убрать верхний toolbar, если хочешь ещё чище */
+.jp-Toolbar {
+    display: none !important;
+}

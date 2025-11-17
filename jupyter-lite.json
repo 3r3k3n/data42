@@ -5,9 +5,12 @@
     "federated_extensions": [
       "@jupyterlite/pyodide-kernel-extension"
     ],
-    "apps": [
-      "lab",
-      "retro"
-    ]
+    "theme": {
+      "overrides": {
+        "extraCss": [
+          "./static/custom.css"
+        ]
+      }
+    }
   }
 }
