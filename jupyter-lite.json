@@ -4,6 +4,10 @@
     "contents": ["content"],
     "federated_extensions": [
       "@jupyterlite/pyodide-kernel-extension"
+    ],
+    "apps": [
+      "lab",
+      "retro"
     ]
   }
 }
