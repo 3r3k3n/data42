@@ -8,7 +8,7 @@
     "theme": {
       "overrides": {
         "extraCss": [
-          "./static/custom.css"
+          "./lab/static/custom.css"
         ]
       }
     }
